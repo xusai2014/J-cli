@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/.*
+[include]
+
+[libs] # 引入需要的接口文件
+app/interfaces/
+
+[lints]
+
+[options]
+module.file_ext=.js
+module.file_ext=.json
+esproposal.decorators=ignore
+
+[strict]

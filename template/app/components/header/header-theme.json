@@ -1,0 +1,11 @@
+{
+	"white": {
+		"headerTintColor": "#333",
+		"backButtonColor": "#333",
+		"headerStyle": {
+			"backgroundColor": "#fff",
+			"borderBottomWidth": 1,
+			"borderColor": "#eee",
+		}
+	}
+}
