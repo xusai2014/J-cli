@@ -1,5 +1,5 @@
 ## 默认模版
-(React-native模版)[https://github.com/chengkaigithub/ReactNativeScaffold]
+[React-native模版](https://github.com/chengkaigithub/ReactNativeScaffold)
 
 ## 创建RN项目
 
